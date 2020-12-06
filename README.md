@@ -7,7 +7,7 @@
 
 - [رزومه]
 
-- [SOP]
+- [SOP](https://github.com/zeynabjalilvand1374/SOP/blob/main/4_5924880352307841222.pdf)
 
 - [java script]
 
