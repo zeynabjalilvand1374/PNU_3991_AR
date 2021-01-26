@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-### زینب جلیلوند
+### Zeynab Jalilvand
  
 ---
 - [حساب گیت هاب](https://github.com/zeynabjalilvand1374/)
