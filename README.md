@@ -11,6 +11,6 @@
 
 - [java script]
 
-- (Html)
+- [HTML]
 ------------------
 ## Winter Semester Courses 1399/2020
