@@ -7,7 +7,7 @@
 
 - [رزومه]
 
-- [SOP]
+- [SOP](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/4_5924880352307841222.pdf)
 
 - [HTML](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/4_5940578174306880051.pdf)
 
