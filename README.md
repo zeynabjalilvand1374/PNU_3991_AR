@@ -25,4 +25,4 @@
 
 - [گزارشات و فرم ها]
 
-- [گزارش کارآموزی](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
+- [گزارش کار اموزی]
