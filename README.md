@@ -25,4 +25,4 @@
 
 - [گزارشات و فرم ها](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D8%B1%20%D8%A7%D9%85%D9%88%D8%B2%DB%8C.pdf)
 
-- [گزارش کار اموزی]
+- [گزارش کار اموزی](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C-1.pdf)
