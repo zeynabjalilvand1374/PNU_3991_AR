@@ -15,7 +15,7 @@
 ------------------
 ## پروژه
 
-- [پروژه دفترچه تلفن در وب]()
+- [پروژه دفترچه تلفن در وب](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
 
 >  ارزیابی ها
  
@@ -29,7 +29,7 @@
 
 - [روش پژوهش و اراِیه]()
 
-- [پروژه]()
+- [پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
 ------------------
 ## مشخصات کار آموزی 
 
