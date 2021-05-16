@@ -27,7 +27,7 @@
 
 ## بخش دروس کارشناسی
 
-- [روش پژوهش و اراِیه]()
+- [روش پژوهش و ارائه]()
 
 - [پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
 ------------------
