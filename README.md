@@ -29,7 +29,14 @@
 
 - [روش پژوهش و ارائه]()
 
+## فایل های پروژه 
+
 - [پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
+ 
+- [Latex Files]()
+
+- [Beamer]()
+ 
 ------------------
 ## مشخصات کار آموزی 
 
