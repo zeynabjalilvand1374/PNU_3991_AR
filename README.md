@@ -33,7 +33,7 @@
 
 - [پروژه پایان ترم روش پژوهش و ارائه]()
 
-## فایل های پروژه 
+# [فایل های پروژه]
 
 - [پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
  
