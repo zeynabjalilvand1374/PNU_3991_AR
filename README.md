@@ -31,7 +31,7 @@
 
 - [پروژه میان ترم روش پژوهش و ارائه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%85%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85%20%D8%B1%D9%88%D8%B4%20%D9%BE%DA%98%D9%88%D9%87%D8%B4.pdf)
 
-- [پروژه پایان ترم روش پژوهش و ارائه]()
+- [پروژه پایان ترم روش پژوهش و ارائه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D8%AA%D8%B1%D9%85%20%D8%B1%D9%88%D8%B4%20%D9%BE%DA%98%D9%88%D9%87%D8%B4.pdf)
 
 # [فایل های پروژه]
 
