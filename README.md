@@ -15,7 +15,7 @@
 ------------------
 ## پروژه
 
-- [پروژه دفترچه تلفن در وب](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
+- []()
 
 >  ارزیابی ها
  
@@ -35,11 +35,11 @@
 
 # [فایل های پروژه]
 
-- [پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/project.pdf)
+- [پروژه](
  
-- [Latex Files](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/zeynab%20jalilvand-Latex(157--160).pdf)
+- []()
 
-- [Beamer](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/zeynab%20jalilvand-Beamer(159--160).pdf)
+- []()
  
 ------------------
 ## مشخصات کار آموزی 
