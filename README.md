@@ -34,7 +34,7 @@
 
 - [فرم طرح پروژه](https://github.com/zeynabjalilvand1374/PNU_3991_AR/commit/0f76305a56e6b6c3e5c4a3de99881ffb216921bc)
  
- - [پروژه عملی]()
+ - [پروژه عملی](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/FinalProject%20(1).zip)
   
 -  [پروژه تحقیقی](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
  
