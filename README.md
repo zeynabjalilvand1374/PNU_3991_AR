@@ -13,9 +13,6 @@
 
 - [java script](https://github.com/zeynabjalilvand1374/PNU_3991_AR/blob/main/4_5935867454176626590.pdf)
 ------------------
-## پروژه
-
-- [پروژه تحقیقی](https://github.com/zeynabjalilvand1374/PNU_3991_AR/commit/2b65ed619b15588b8f475d182c1234655b48dec2)
 
 >  ارزیابی ها
  
